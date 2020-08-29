@@ -1,6 +1,6 @@
 # Maven
 # Builds project and runs automated tests
-# Eider Mauricio Aristizabal Erazo
+# Deivis Howar Ojeda Lopez
 
 trigger:
 - master
