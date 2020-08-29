@@ -112,11 +112,11 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<start-class>com.restcalculator.app.app</start-class>
-
 		
-		  <sonar.projectKey>Dhowar_restcalculator</sonar.projectKey>
-		  <sonar.organization>dhowar</sonar.organization>
-		  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.projectKey>Dhowar_restcalculator</sonar.projectKey>
+		<sonar.organization>dhowar</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonarlogin>413181b07a4d56b54253dc477717bdf516d10fb2</sonar.login>
 	</properties>
 		
 
